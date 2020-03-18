@@ -1,0 +1,2 @@
+rootProject.name='Mahasiswa_Log'
+include ':app'
